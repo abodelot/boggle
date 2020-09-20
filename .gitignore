@@ -1,0 +1,11 @@
+# Executable
+boggle
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.d
+
+# Editors
+*.swp
